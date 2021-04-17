@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/SPHondaServices/static/css/main.85196027.chunk.css",
+    "main.js": "/SPHondaServices/static/js/main.e9bf137c.chunk.js",
+    "main.js.map": "/SPHondaServices/static/js/main.e9bf137c.chunk.js.map",
+    "runtime-main.js": "/SPHondaServices/static/js/runtime-main.4d38fbb1.js",
+    "runtime-main.js.map": "/SPHondaServices/static/js/runtime-main.4d38fbb1.js.map",
+    "static/css/2.fabbef47.chunk.css": "/SPHondaServices/static/css/2.fabbef47.chunk.css",
+    "static/js/2.fc9b9ae5.chunk.js": "/SPHondaServices/static/js/2.fc9b9ae5.chunk.js",
+    "static/js/2.fc9b9ae5.chunk.js.map": "/SPHondaServices/static/js/2.fc9b9ae5.chunk.js.map",
+    "index.html": "/SPHondaServices/index.html",
+    "static/css/2.fabbef47.chunk.css.map": "/SPHondaServices/static/css/2.fabbef47.chunk.css.map",
+    "static/css/main.85196027.chunk.css.map": "/SPHondaServices/static/css/main.85196027.chunk.css.map",
+    "static/js/2.fc9b9ae5.chunk.js.LICENSE.txt": "/SPHondaServices/static/js/2.fc9b9ae5.chunk.js.LICENSE.txt",
+    "static/media/clutch.c813be7a.jpg": "/SPHondaServices/static/media/clutch.c813be7a.jpg",
+    "static/media/color.b019d047.png": "/SPHondaServices/static/media/color.b019d047.png",
+    "static/media/engine.c941b730.png": "/SPHondaServices/static/media/engine.c941b730.png",
+    "static/media/fork.bfa96e33.jpg": "/SPHondaServices/static/media/fork.bfa96e33.jpg",
+    "static/media/gear.1cd4f30e.jpg": "/SPHondaServices/static/media/gear.1cd4f30e.jpg",
+    "static/media/general.cfc876ff.jpg": "/SPHondaServices/static/media/general.cfc876ff.jpg",
+    "static/media/home1.361bf3ad.jpg": "/SPHondaServices/static/media/home1.361bf3ad.jpg",
+    "static/media/logo3.ad57b86f.jpg": "/SPHondaServices/static/media/logo3.ad57b86f.jpg",
+    "static/media/opening.f8c32f63.jpg": "/SPHondaServices/static/media/opening.f8c32f63.jpg",
+    "static/media/prakash.321862d1.jpg": "/SPHondaServices/static/media/prakash.321862d1.jpg",
+    "static/media/prakash_certificate.b4becd9d.jpg": "/SPHondaServices/static/media/prakash_certificate.b4becd9d.jpg",
+    "static/media/sanjay.12b2466d.jpg": "/SPHondaServices/static/media/sanjay.12b2466d.jpg",
+    "static/media/sanjay_certificate.deb8194b.jpg": "/SPHondaServices/static/media/sanjay_certificate.deb8194b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d38fbb1.js",
+    "static/css/2.fabbef47.chunk.css",
+    "static/js/2.fc9b9ae5.chunk.js",
+    "static/css/main.85196027.chunk.css",
+    "static/js/main.e9bf137c.chunk.js"
+  ]
+}
